@@ -1,2 +1,3 @@
 # Minesweeper
-Game of minesweeper in C# language.
+Igra minesweeper u C# programskom jeziku.
+
