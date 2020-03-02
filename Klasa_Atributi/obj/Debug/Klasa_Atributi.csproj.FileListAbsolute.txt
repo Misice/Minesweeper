@@ -1,0 +1,5 @@
+E:\Skola\FAKS\C#\~~LABOVI~~~\OO.Projektovanje-LAB\Lab2\Klasa_Atributi\bin\Debug\Klasa_Atributi.dll
+E:\Skola\FAKS\C#\~~LABOVI~~~\OO.Projektovanje-LAB\Lab2\Klasa_Atributi\bin\Debug\Klasa_Atributi.pdb
+E:\Skola\FAKS\C#\~~LABOVI~~~\OO.Projektovanje-LAB\Lab2\Klasa_Atributi\obj\Debug\Klasa_Atributi.dll
+E:\Skola\FAKS\C#\~~LABOVI~~~\OO.Projektovanje-LAB\Lab2\Klasa_Atributi\obj\Debug\Klasa_Atributi.pdb
+E:\Skola\FAKS\C#\~~LABOVI~~~\OO.Projektovanje-LAB\Lab2\Klasa_Atributi\obj\Debug\Klasa_Atributi.csprojResolveAssemblyReference.cache
